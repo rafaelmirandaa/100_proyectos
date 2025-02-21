@@ -19,7 +19,7 @@ Otros: Arduino, ESP32, APIs, Web Scraping, Docker
 Aquí hay una lista de los proyectos con enlaces a sus respectivos repositorios:
 
 #	Proyecto	Descripción	Tecnologías
-01	___________________________________________________________
+01	Proyecto 1 "Calculo de un interes en referencia al monto ingresado"
 02	_______________________________________________________
 03	Clon de Google	Página de inicio inspirada en Google	HTML, CSS
 ...	...	...	...
