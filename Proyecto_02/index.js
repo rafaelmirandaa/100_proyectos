@@ -10,8 +10,7 @@ let timerInterval;
 function startTimer() {
     startTime = Date.now() - elapsedTime;
   
-    timerInterval = setInterval(() => {
-      elapsedTime = Date.now() - startTime;
+    timerInterval = setInterval(() => {elapsedTime = Date.now() - startTime;
       timerEl.textContent = formatTime(elapsedTime);
     }, 10);
   
